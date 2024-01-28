@@ -81,7 +81,7 @@ header {
 }
 
 .header__logo {
-  flex: 2;
+  flex: 3;
 }
 
 .header__logo img {
